@@ -30,4 +30,6 @@ PhoebesPinterest::Application.configure do
   # Needed for Devise
   config.action_mailer.default_url_options = { host: 'localhost', port: 3000 }
 
+  # Needed for imagemagik https://github.com/thoughtbot/paperclip#image-processor
+  Paperclip.options[:command_path] = "/usr/bin/"
 end
