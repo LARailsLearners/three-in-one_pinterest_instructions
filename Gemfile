@@ -13,6 +13,7 @@ gem 'haml', '~> 4.0.5'
 gem 'bootstrap-sass', '~> 3.2.0.2'
 gem 'devise', '~> 3.4.1'
 gem 'paperclip', '~> 4.2.0'
+gem 'masonry-rails', '~> 0.2.4'
 
 group :development, :test do
   gem 'sqlite3'
@@ -24,6 +25,7 @@ end
 
 group :production do
   gem 'pg'
+  gem 'rails_12factor'
 end
 
 group :test do
