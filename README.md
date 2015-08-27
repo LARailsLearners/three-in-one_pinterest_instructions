@@ -4,14 +4,14 @@
 
 ##### Go through all of the videos to create the Pinterest App
 
-*17. Get Started with Pinterest Replica*
-*18. Controller, Routes, Index Page*
-*19. Create, Show and Edit New Pins*
-*20. Delete Pins, Add Users*
-*21. Define User Role, Add Structure/Styling*
-*22. Upload Images with Paperclip gem, Edit & Delete Images*
-*23. Style with Masonry and Bootstrap*
-*24. Up-Voting Pins using Gem*
+*17. Get Started with Pinterest Replica* 
+*18. Controller, Routes, Index Page* 
+*19. Create, Show and Edit New Pins* 
+*20. Delete Pins, Add Users* 
+*21. Define User Role, Add Structure/Styling* 
+*22. Upload Images with Paperclip gem, Edit & Delete Images* 
+*23. Style with Masonry and Bootstrap* 
+*24. Up-Voting Pins using Gem* 
 *25. Final Polishing of New, Edit, Account Sign In/Out Pages*
 
 -----
