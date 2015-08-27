@@ -1,8 +1,8 @@
-### [Create Pinterest App](https://www.skillshare.com/classes/technology/Ruby-on-Rails-in-3-Weeks-Build-Evernote-Pinterest-and-Wordpress/1493287244)
+# [Create Pinterest App](https://www.skillshare.com/classes/technology/Ruby-on-Rails-in-3-Weeks-Build-Evernote-Pinterest-and-Wordpress/1493287244)
 
-### [The repository of the code](https://github.com/CrashLearner/PinterestClone)
+## [The repository of the code](https://github.com/CrashLearner/PinterestClone)
 
-##### Go through all of the videos to create the Pinterest App
+### Go through all of the videos to create the Pinterest App
 
 *17. Get Started with Pinterest Replica*  
 *18. Controller, Routes, Index Page*  
