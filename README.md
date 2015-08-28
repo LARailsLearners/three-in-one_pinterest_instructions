@@ -1,3 +1,5 @@
+# Making a change :)
+
 # [Create Pinterest App](https://www.skillshare.com/classes/technology/Ruby-on-Rails-in-3-Weeks-Build-Evernote-Pinterest-and-Wordpress/1493287244)
 
 ## [The repository of the code](https://github.com/CrashLearner/PinterestClone)
