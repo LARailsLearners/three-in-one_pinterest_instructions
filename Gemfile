@@ -15,6 +15,7 @@ gem 'devise', '~> 3.4.1'
 gem 'paperclip', '~> 4.2.0'
 gem 'masonry-rails', '~> 0.2.4'
 gem 'acts_as_votable', '~> 0.10.0'
+gem 'aws-sdk-v1', '~> 1.63.0'
 
 group :development, :test do
   gem 'sqlite3'
